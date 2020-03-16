@@ -8,7 +8,6 @@ class App extends Component{
     super();
 
     this.state= {
-      string : 'Hello Chetan',
       monsters:[],
       searchField:''
     }
